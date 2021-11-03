@@ -33,6 +33,9 @@ img {
 .header_area .menu_nav {
     width: 100%;
 }
+.header_area .navbar .nav .nav-item .nav-link:hover {
+    color:black;
+}
 .header_area .navbar .nav .nav-item .nav-link {
     font: 500 12px/100px "Poppins", sans-serif;
     text-transform: uppercase;
